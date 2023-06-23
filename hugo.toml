@@ -1,5 +1,5 @@
 baseURL = "http://example.org/"
 languageCode = "ja"
 title = "中華備忘録"
-theme = "Blowfish"
+theme = "hugo-swift-theme"
 contentDir = "content"
